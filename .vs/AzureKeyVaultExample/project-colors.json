@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "497e2271-349b-4d78-a8bb-ad0c414138e7": {
+      "ProjectGuid": "497e2271-349b-4d78-a8bb-ad0c414138e7",
+      "DisplayName": "AzureKeyVaultExample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
