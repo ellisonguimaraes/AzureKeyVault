@@ -5,7 +5,12 @@
       "ProjectGuid": "497e2271-349b-4d78-a8bb-ad0c414138e7",
       "DisplayName": "AzureKeyVaultExample",
       "ColorIndex": 0
+    },
+    "4b005a52-7a4e-4e16-971b-209080d20e99": {
+      "ProjectGuid": "4b005a52-7a4e-4e16-971b-209080d20e99",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
